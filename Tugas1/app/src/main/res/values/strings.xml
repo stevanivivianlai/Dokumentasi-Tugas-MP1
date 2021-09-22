@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">VISTAGRAM</string>
+    <string name="profile_username">stevanivivianlai</string>
+    <string name="profile_jmlh_postingan">35</string>
+    <string name="profile_jml_pengikut">2.575</string>
+    <string name="profile_jml_mengikuti">987</string>
+    <string name="profile_postingan">Postingan</string>
+    <string name="profile_pengikut">Pengikut</string>
+    <string name="postingan">postingan</string>
+    <string name="profile_mengikuti">Mengikuti</string>
+    <string name="profile_nama">Stevani Vivianlai</string>
+    <string name="profile_bio">don\'t expect more of me</string>
+    <string name="diikuti">Diikuti oleh</string>
+    <string name="oleh">dhani_anshory, ronibiasanto, dan 90 lainnya</string>
+    <string name="profile_follow_button">Ikuti</string>
+    <string name="profile_pesan_button">Pesan</string>
+    <string name="button_3"><![CDATA[>]]></string>
+</resources>
